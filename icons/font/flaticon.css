@@ -1,0 +1,59 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 18/02/2019 10:39
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-honey:before { content: "\f100"; }
+.flaticon-honey-1:before { content: "\f101"; }
+.flaticon-honey-3:before { content: "\f102"; }
+.flaticon-honey-4:before { content: "\f103"; }
+.flaticon-honey-5:before { content: "\f104"; }
+.flaticon-honeycomb:before { content: "\f105"; }
+.flaticon-honey-6:before { content: "\f106"; }
+.flaticon-bee-hive:before { content: "\f107"; }
+.flaticon-honey-7:before { content: "\f108"; }
+.flaticon-honey-8:before { content: "\f109"; }
+.flaticon-honey-9:before { content: "\f10a"; }
+.flaticon-bee:before { content: "\f10b"; }
+.flaticon-honey-10:before { content: "\f10c"; }
+.flaticon-honeycomb-1:before { content: "\f10d"; }
+.flaticon-honey-11:before { content: "\f10e"; }
+.flaticon-bee-4:before { content: "\f10f"; }
+.flaticon-honeycomb-2:before { content: "\f110"; }
+.flaticon-apitherapy:before { content: "\f111"; }
+.flaticon-apitherapy-1:before { content: "\f112"; }
+.flaticon-bee-5:before { content: "\f113"; }
+.flaticon-bee-6:before { content: "\f114"; }
+.flaticon-bee-7:before { content: "\f115"; }
+.flaticon-honey-15:before { content: "\f116"; }
+.flaticon-bee-10:before { content: "\f117"; }
+.flaticon-bee-12:before { content: "\f118"; }
+.flaticon-honey-21:before { content: "\f119"; }
+.flaticon-bee-13:before { content: "\f11a"; }
